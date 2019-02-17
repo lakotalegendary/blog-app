@@ -9,7 +9,8 @@
         <ul>
           <li
             v-for="post in posts"
-            :key="post.id">
+            :key="post.id"
+            class="list-title-link">
             <router-link
               active-class="is-active"
               class="link"
