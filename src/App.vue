@@ -85,4 +85,7 @@ a {
   grid-template-columns: 1fr 3fr 6fr 1fr;
   grid-template-rows: 60px 9fr 1fr;
 }
+.list-title-link {
+  color: inherit;
+}
 </style>
