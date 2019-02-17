@@ -86,6 +86,8 @@ a {
   grid-template-rows: 60px 9fr 1fr;
 }
 .list-title-link {
-  color: inherit;
+  color: red;
+  background-color: white;
+  text-decoration: none;
 }
 </style>
