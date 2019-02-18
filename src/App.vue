@@ -70,7 +70,7 @@ ul {
   list-style-type: none;
   padding-left: 0;
   margin: 0;
-  display: block;
+  display: grid;
 }
 li {
   margin: 0;
